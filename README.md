@@ -1,6 +1,6 @@
 # Shrubterrania
-Origin story of sorts.
-Scaffolding for the first of a work in progress by a London Flaneuse. Telling stories with maps
+Origin story of sorts. For my curated semi-nonFics.
+Scaffolding for the first of a work in progress by a London-based Flaneuse. Telling stories with maps
 
 Building a custom styled Google map using the Google Cloud Platform and the Google Maps JavaScript API.
 
