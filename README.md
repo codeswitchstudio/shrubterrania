@@ -14,3 +14,12 @@ https://www.youtube.com/watch?v=Uq-0tA0f_X8
 
 credit for the VW Combi icon
 https://www.flaticon.com/authors/konkapp
+
+
+Work in progress
+
+## Screenshots
+
+![screenshot](./public/assets/ScreenCombi.gif)
+
+![initial study](./public/assets/screenrec02.gif)
